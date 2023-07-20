@@ -449,7 +449,7 @@ body {
 .v904_522 {
   width: 109px;
   height: 32px;
-  background: url("./images/v904_522.png");
+  /* background: url("./images/v904_522.png"); */
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
